@@ -1,0 +1,5 @@
+/home/karina/Desktop/dev-ka/client/src/main/java/br/com/javagirl/client/ClientApplication.java
+/home/karina/Desktop/dev-ka/client/src/main/java/br/com/javagirl/client/entity/Client.java
+/home/karina/Desktop/dev-ka/client/src/main/java/br/com/javagirl/client/http/controler/ClientController.java
+/home/karina/Desktop/dev-ka/client/src/main/java/br/com/javagirl/client/repository/ClientRepository.java
+/home/karina/Desktop/dev-ka/client/src/main/java/br/com/javagirl/client/service/ClientService.java

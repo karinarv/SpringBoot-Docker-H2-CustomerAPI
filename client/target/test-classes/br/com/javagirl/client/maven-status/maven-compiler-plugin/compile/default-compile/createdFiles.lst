@@ -1,0 +1,6 @@
+br/com/javagirl/client/repository/ClientRepository.class
+br/com/javagirl/client/service/ClientService.class
+br/com/javagirl/client/entity/Client.class
+br/com/javagirl/client/entity/Client$ClientBuilder.class
+br/com/javagirl/client/ClientApplication.class
+br/com/javagirl/client/http/controler/ClientController.class
